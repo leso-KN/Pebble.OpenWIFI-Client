@@ -7,10 +7,17 @@
     "longName": "OpenWIFI Client",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/Icon",
+                "menuIcon": true,
+                "name": "IMAGE_PB_OWC_ICON",
+                "type": "png"
+            }
+        ]
     },
     "sdkVersion": "2",
-    "shortName": "OpenWIFI Client",
+    "shortName": "OpenWIFI",
     "uuid": "4acff3cf-8941-4d06-8285-28b0d21f48fa",
     "versionCode": 1,
     "versionLabel": "1.0",
